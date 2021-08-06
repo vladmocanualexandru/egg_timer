@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<presets>
+  <preset name="NewPreset_565da942">
+    <step seconds="1200" />
+    <step seconds="300" />
+  </preset>
+  <preset name="NewPreset_566a9d1e">
+    <step seconds="1200" />
+    <step seconds="300" />
+  </preset>
+</presets>

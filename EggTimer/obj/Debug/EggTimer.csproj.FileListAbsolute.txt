@@ -1,0 +1,9 @@
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\bin\Debug\EggTimer.exe.config
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\bin\Debug\EggTimer.exe
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\bin\Debug\EggTimer.pdb
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.csprojResolveAssemblyReference.cache
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.Form1.resources
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.Properties.Resources.resources
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.csproj.GenerateResource.Cache
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.exe
+D:\Workspaces\VisualStudio2013\EggTimer\EggTimer\obj\Debug\EggTimer.pdb
